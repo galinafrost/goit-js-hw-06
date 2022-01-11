@@ -22,3 +22,15 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.js-image {
+  width: 600px;
+  margin-right: 20px;
+
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
